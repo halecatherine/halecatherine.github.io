@@ -20,4 +20,4 @@ Undergraduate: Merton College, University of Oxford:
 
 ### Talks and Posters
 
-[!Image](Stars.jpg)
+![Image](Stars.jpg)
