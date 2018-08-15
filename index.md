@@ -1,20 +1,28 @@
 ## DPhil Student, University of Oxford 
 
-### CV
+I am a PhD student in my fourth year, working with Prof. Matt Jarvis. 
 
-**2015-present**  
-Post-Graduate: Merton College, University of Oxford:
-_“Studying Galaxy Evolution with Modern Radio Surveys”_
+My areas of interest include:
+- Galaxy evolution
+- Observational Cosmology
+- Radio Continuum Surveys 
+- Multi-wavelength Studies 
+- Galaxy Clustering 
+- Evolution of Bias 
+- AGN studies 
 
-**2011 - 2015**
-Undergraduate: Merton College, University of Oxford
-
-[Detailed CV](cv.md)
+### [CV](cv.md)
 
 ### [Papers](papers.md)
 
-
 ### [Talks and Posters](talks.md)
 
+### [Teaching Experience](teaching.md)
+
+### [Computing Skills](comp.md)
+
+### [Other Scientific Experiences](other.md)
+
+### [Positions of Responsibility](positions.md)
 
 ![Stars near Mt. Cook, NZ](Stars.jpg)
