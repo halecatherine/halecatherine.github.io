@@ -13,7 +13,7 @@ Galaxy evolution, Observational Cosmology, Radio Continuum Surveys, Multi-wavele
 
 ### [Education](education.md)
 
-### [Papers](papers.md)
+### [Publications](papers.md)
 
 ### [Talks and Posters](talks.md)
 
