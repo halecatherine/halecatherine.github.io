@@ -1,21 +1,14 @@
 ## DPhil Student, University of Oxford 
 
 ### CV
-[Detailed CV](cv.md)
+
 **2015-present**  
-- Post-Graduate: Merton College, University of Oxford:
-- DPhil (PhD) in Astrophysics working with Prof. Matt Jarvis 
-- _“Studying Galaxy Evolution with Modern Radio Surveys”_
-- Expected completion 2019
-
-- Completed Long Term Attachment to University of Western Australia from March-May 2018 (3 months) 
-working with Prof. Simon Driver, Dr. Aaron Robotham and Dr. Luke Davies funded by the Science and Technology 
-Facilities Council (STFC)
-
+Post-Graduate: Merton College, University of Oxford:
+_“Studying Galaxy Evolution with Modern Radio Surveys”_
 **2011 - 2015**
-- Undergraduate: Merton College, University of Oxford:
-- MPhys with First Class honours in Physics.
-- Ranked in the top ten Physics students of cohort for final grade.
+Undergraduate: Merton College, University of Oxford
+
+[Detailed CV](cv.md)
 
 ### Papers 
 - Hale et al. 2018, MNRAS, 474, 4133 _The clustering and bias of radio-selected AGN and star-forming galaxies in the COSMOS field_ [ADS](http://adsabs.harvard.edu/abs/2018MNRAS.474.4133H)
