@@ -20,4 +20,3 @@ Galaxy evolution, Observational Cosmology, Radio Continuum Surveys, Multi-wavele
 
 ### [Positions of Responsibility](positions.md)
 
-![Stars near Mt. Cook, NZ](Stars.jpg)
