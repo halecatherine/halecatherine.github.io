@@ -1,4 +1,5 @@
-# Hello, World!
-## Sam is awesome
+# Catherine Hale
+## DPhil Student
+## University of Oxford 
 
 ![Image](Image.png)
