@@ -5,7 +5,7 @@
 Post-Graduate: Merton College, University of Oxford:
 
 DPhil (PhD) in Astrophysics working with Prof. Matt Jarvis 
-__“Studying Galaxy Evolution with Modern Radio Surveys”__
+_“Studying Galaxy Evolution with Modern Radio Surveys”_
 
 Expected completion 2019
 
