@@ -1,4 +1,5 @@
-## DPhil Student, University of Oxford 
+## DPhil Student in Astrophysics
+## University of Oxford 
 ### e-mail: catherine.hale@physics.ox.ac.uk
 
 I am a PhD student in my fourth year, working with Prof. Matt Jarvis. 
