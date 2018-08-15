@@ -3,13 +3,7 @@
 I am a PhD student in my fourth year, working with Prof. Matt Jarvis. 
 
 My areas of interest include:
-- Galaxy evolution
-- Observational Cosmology
-- Radio Continuum Surveys 
-- Multi-wavelength Studies 
-- Galaxy Clustering 
-- Evolution of Bias 
-- AGN studies 
+Galaxy evolution, Observational Cosmology, Radio Continuum Surveys, Multi-wavelength Studies, Galaxy Clustering, Evolution of Bias, AGN studies 
 
 ### [CV](cv.md)
 
