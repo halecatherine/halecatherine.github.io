@@ -5,7 +5,7 @@
 - Expected completion 2019
 
 - Completed Long Term Attachment to University of Western Australia from March-May 2018 (3 months) 
-working with Prof. Simon Driver, Dr. Aaron Robotham and Dr. Luke Davies funded by the Science and Technology 
+working with Dr. Aaron Robotham, Dr. Luke Davies and Prof. Simon Driver funded by the Science and Technology 
 Facilities Council (STFC)
 
 **2011 - 2015**
