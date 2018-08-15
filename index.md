@@ -2,14 +2,12 @@
 
 ### CV
 **2015-present**  
-Post-Graduate: Merton College, University of Oxford:
+-Post-Graduate: Merton College, University of Oxford:
+- DPhil (PhD) in Astrophysics working with Prof. Matt Jarvis 
+- _“Studying Galaxy Evolution with Modern Radio Surveys”_
+- Expected completion 2019
 
-DPhil (PhD) in Astrophysics working with Prof. Matt Jarvis 
-_“Studying Galaxy Evolution with Modern Radio Surveys”_
-
-Expected completion 2019
-
-Completed Long Term Attachment to University of Western Australia from March-May 2018 (3 months) 
+- Completed Long Term Attachment to University of Western Australia from March-May 2018 (3 months) 
 working with Prof. Simon Driver, Dr. Aaron Robotham and Dr. Luke Davies funded by the Science and Technology 
 Facilities Council (STFC)
 
