@@ -17,15 +17,15 @@ Facilities Council (STFC)
 - Ranked in the top ten Physics students of cohort for final grade.
 
 ### Papers 
-Hale et al. 2018, MNRAS, 474, 4133 _The clustering and bias of radio-selected AGN and star-forming galaxies in the COSMOS field_ ADS:[Link](http://adsabs.harvard.edu/abs/2018MNRAS.474.4133H)
-Hale et al., Submitted to A&A _LOFAR Observations of the XMM-LSS field_
+- Hale et al. 2018, MNRAS, 474, 4133 _The clustering and bias of radio-selected AGN and star-forming galaxies in the COSMOS field_ ADS:[Link](http://adsabs.harvard.edu/abs/2018MNRAS.474.4133H)
+- Hale et al., Submitted to A&A _LOFAR Observations of the XMM-LSS field_
 %Hale et al., in prep _Radio source extraction with ProFound_
 %Shimwell et al., Submitted to A&A _LOFAR Two-metre Sky Survey -- II. First Data Release_
 %Williams et al., Submitted to A&A _LOFAR Two-metre Sky Survey -- II. First Data Release: Optical Identifications and Value-added catalogue_
-Hatfield et al. 2018, MNRAS, 477, 3760 _The environment and host haloes of the brightest z~6 Lyman-break galaxies_ ADS[Link](http://adsabs.harvard.edu/abs/2018MNRAS.477.3760H)
-Jarvis et al. 2017, Proceedings of Science MeerKAT Science: On the Pathway to the SKA, Stellenbosch, 25-27 May 2016, _The MeerKAT International GHz Tiered Extragalactic_ ADS[Link](http://adsabs.harvard.edu/abs/2016mks..confE...6J)
+- Hatfield et al. 2018, MNRAS, 477, 3760 _The environment and host haloes of the brightest z~6 Lyman-break galaxies_ ADS[Link](http://adsabs.harvard.edu/abs/2018MNRAS.477.3760H)
+- Jarvis et al. 2017, Proceedings of Science MeerKAT Science: On the Pathway to the SKA, Stellenbosch, 25-27 May 2016, _The MeerKAT International GHz Tiered Extragalactic_ ADS[Link](http://adsabs.harvard.edu/abs/2016mks..confE...6J)
 Exploration (MIGHTEE) Survey \\ \\
-Smith et al. 2016, SF2A-2016: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, Centre de Recherche Astrophysique de Lyon, 14-17 June, 2016, _The WEAVE-LOFAR Survey_ ADS[Link](http://adsabs.harvard.edu/abs/2016sf2a.conf..271S)
+- Smith et al. 2016, SF2A-2016: Proceedings of the Annual meeting of the French Society of Astronomy and Astrophysics, Centre de Recherche Astrophysique de Lyon, 14-17 June, 2016, _The WEAVE-LOFAR Survey_ ADS[Link](http://adsabs.harvard.edu/abs/2016sf2a.conf..271S)
 
 
 ### Talks and Posters
