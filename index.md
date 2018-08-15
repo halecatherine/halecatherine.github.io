@@ -6,7 +6,11 @@ I am a PhD student in my fourth year, working with Prof. Matt Jarvis.
 My areas of interest include:
 Galaxy evolution, Observational Cosmology, Radio Continuum Surveys, Multi-wavelength Studies, Galaxy Clustering, Evolution of Bias, AGN studies 
 
-### [CV](education.md)
+### ![Download Full CV](CV_CatherineHale_cond.pdf)
+
+---------------------------
+
+### [Education](education.md)
 
 ### [Papers](papers.md)
 
@@ -20,4 +24,4 @@ Galaxy evolution, Observational Cosmology, Radio Continuum Surveys, Multi-wavele
 
 ### [Positions of Responsibility](positions.md)
 
-### ![Download Full CV](CV_CatherineHale_cond.pdf)
+
