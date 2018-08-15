@@ -1,6 +1,7 @@
 ## DPhil Student, University of Oxford 
 
 ### CV
+[Detailed CV](cv.md)
 **2015-present**  
 - Post-Graduate: Merton College, University of Oxford:
 - DPhil (PhD) in Astrophysics working with Prof. Matt Jarvis 
