@@ -4,7 +4,4 @@ Experience working with:
 - C-Programming
 - Topcat
 - ds9
-- CASA
-- bash 
-- tsch
 - Windows, Linux and MacOS
