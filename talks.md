@@ -1,8 +1,12 @@
+October 2018, LOFAR Surveys Meeting (Leiden): _LOFAR Observations of the XMM-LSS Field_
+
+October 2018, Galaxy Evolution Seminar (University of Oxford): _Studying Galaxy Evolution with Modern Radio Surveys_
+
 May 2018, Astro Morning Tea Talk (University of Western Australia): _Radio Source Extraction with ProFound_
 
-May 2018, Canada & SPARCS 2018 Meeting (Remote talk): _Clustering with Radio Surveys_
+May 2018, SPARCS 2018 Meeting (Remote talk to Penticton, Canada): _Clustering with Radio Surveys_
 
-April 2018, India & uGMRT-MIGHTEE Meeting (Remote talk): _Clustering with Radio Surveys_
+April 2018, uGMRT-MIGHTEE Meeting (Remote talk to Pune, India): _Clustering with Radio Surveys_
 
 December 2017, SKA Cosmology Meeting (Queen Marys University, talk to continuum sub-working group): _The Evolution of Bias of Radio Sources_
 
