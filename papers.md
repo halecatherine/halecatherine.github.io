@@ -1,6 +1,6 @@
 **First Author**
 
-Hale et al., Accepted to A&A _LOFAR Observations of the XMM-LSS field_
+Hale et al., Submitted to MNRAS _Radio Source Extraction with ProFound_
 
 Hale et al., Accepted to A&A _LOFAR Observations of the XMM-LSS field_
 
