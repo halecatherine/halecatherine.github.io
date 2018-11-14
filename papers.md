@@ -1,4 +1,5 @@
 **First Author**
+
 Hale et al., Accepted to A&A _LOFAR Observations of the XMM-LSS field_
 
 Hale et al., Accepted to A&A _LOFAR Observations of the XMM-LSS field_
@@ -6,7 +7,9 @@ Hale et al., Accepted to A&A _LOFAR Observations of the XMM-LSS field_
 Hale et al. 2018, MNRAS, 474, 4133 _The clustering and bias of radio-selected AGN and star-forming galaxies in the COSMOS field_ [ADS](http://adsabs.harvard.edu/abs/2018MNRAS.474.4133H)
 
 
+
 **Listed Author**
+
 Shimwell et al., Accepted to A&A 
 
 Williams et al., Accepted to A&A 
